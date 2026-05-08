@@ -11,8 +11,8 @@ Gök Mergen, TEKNOFEST 2026 Çelikkubbe Hava Savunma Sistemleri Yarışması iç
 
 Sistemimiz; hava tehditlerini otonom olarak tespit, takip ve imha etmek üzere tasarlanmış çoklu sensör füzyonuna dayanan bir yapıdır.
 
-- **Donanım:** Gelişmiş görüntüleme birimleri, mesafe ölçüm sensörleri, gömülü kontrol sistemleri ve yüksek hassasiyetli yönlendirme mekanizmaları.
-- **Yazılım:** Görüntü işleme tabanlı hedef tespit/takip algoritmaları, gerçek zamanlı işletim altyapısı ve güvenli mod yönetim protokolleri.
+- **Donanım:** Gelişmiş görüntüleme birimleri, mesafe ölçüm sensörleri, gömülü kontrol sistemleri ve yüksek hassasiyetli yönlendirme mekanizmaları
+- **Yazılım:** Görüntü işleme tabanlı hedef tespit/takip algoritmaları, gerçek zamanlı işletim altyapısı ve güvenli mod yönetim protokolleri
 
 ## 🧠 Geliştirme Odakları
 
@@ -20,11 +20,3 @@ Sistemimiz; hava tehditlerini otonom olarak tespit, takip ve imha etmek üzere t
 - Çok Katmanlı Güvenlik Mekanizmaları (Yazılım ve Donanım)
 - Düşük Gecikmeli Haberleşme Protokolleri
 - Otonom ve Manuel Operasyon Yetenekleri
-
-## 📂 Ana Repository
-
-- 🔗 [`gokmergen-control-system`](https://github.com/Gok-Mergen/gokmergen-control-system) (Private)
-
-## 👥 Takımımız
-
-Gök Mergen takımı; farklı mühendislik disiplinlerinden gelen (Bilgisayar, Elektrik-Elektronik, Makine, İmalat, Metalurji & Malzeme, Otomotiv) vizyoner öğrencilerin bir araya geldiği çok disiplinli bir Ar-Ge ekibidir.
